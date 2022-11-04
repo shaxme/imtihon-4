@@ -1,0 +1,18 @@
+{
+  "Students": [
+    {
+      "Name": "Shohsuvor",
+      "lastName": "Abdusamiyev",
+      "mark": "60",
+      "Date": "2022-11-16",
+      "id": 1
+    },
+    {
+      "Name": "shaxme",
+      "lastName": "XXX",
+      "mark": "120",
+      "Date": "1212-12-12",
+      "id": 2
+    }
+  ]
+}
